@@ -74,8 +74,6 @@ module.exports = function choosePatronages(bindings) {
   */
   let restructured = restructure(bindings) 
 
-  console.dir(restructured, {depth: null})
-
   let results = {}
   let setResult = (icao, year, patronage) => {
     if(results[icao] === undefined) {
@@ -101,19 +99,14 @@ module.exports = function choosePatronages(bindings) {
           }
         }
         let info = splitSet(allValues) 
-        console.log(info)
         if( info.lower_mean * 6 < info.upper_mean ) { // assume we have monthly and yearly values
-          console.log('monthly and yearly') 
           setResult(icao, year, info.upper_mean)
         } else { // assume we only have monthly data
-          console.log('only monthly') 
           let avg_monthly_patronages = allValues.reduce((a,b) => a + b) / allValues.length
           setResult(icao, year, avg_monthly_patronages * 12)
         }
       }
     }
   }
-
-  console.dir(results, {depth: null})
-
+  return results
 }

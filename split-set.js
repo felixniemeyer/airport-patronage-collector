@@ -5,7 +5,7 @@ module.exports = function splitSet(set) {
 
   let sorted_set = set.slice().sort((a,b) => a-b)
 
-  for(let i = 1; i < sorted_set.length - 1; i++) {
+  for(let i = 1; i < sorted_set.length; i++) {
     let subsets = [
       sorted_set.slice(0, i),
       sorted_set.slice(i)
