@@ -1,0 +1,1570 @@
+[
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7023052"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7023052"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "6277137"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "6277137"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "508600"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-06-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "508600"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-06-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "8240161"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "8240161"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "529016"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-09-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "529016"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-09-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7380826"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7380826"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "556418"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-04-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "556418"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-04-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "568139"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-07-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "568139"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-07-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "583561"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-08-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "583561"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-08-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "573246"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-03-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "573246"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-03-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "519125"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-05-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "519125"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-05-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7449265"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2017-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7449265"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2017-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "489947"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "489947"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7634926"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7634926"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "480168"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-02-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "480168"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-02-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "542296"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-03-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "542296"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-03-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "528841"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-02-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "528841"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-02-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "527981"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-06-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "527981"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-06-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "503019"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-09-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "503019"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-09-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "516602"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-10-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "516602"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-10-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7027068"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7027068"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "550916"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-10-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "550916"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-10-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "6983229"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "6983229"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7981074"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7981074"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "504337"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-11-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "504337"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-11-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "599313"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-07-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "599313"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-07-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "540069"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-11-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "540069"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-11-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "549048"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-05-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "549048"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-05-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "558955"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-12-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "558955"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-12-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "6156639"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "6156639"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "539364"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-12-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "539364"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-12-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "630505"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-08-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "630505"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-08-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "532549"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "532549"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7465525"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "7465525"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "521979"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-04-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYEG"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "521979"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-04-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3908799"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3908799"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3663039"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3663039"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3493595"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3493595"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3605701"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3605701"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3966228"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2017-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3966228"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2017-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3600534"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3600534"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3540594"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3540594"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3805573"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3805573"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2016-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3594164"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3594164"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2011-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "4083188"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2017-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "4083188"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2017-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3506303"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3506303"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2012-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3579850"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3579850"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2014-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3702705"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3702705"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2015-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3585864"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    },
+    {
+        "icao": {
+            "type": "literal",
+            "value": "CYHZ"
+        },
+        "patronage": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+            "type": "literal",
+            "value": "3585864"
+        },
+        "point_in_time": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "2013-01-01T00:00:00Z"
+        }
+    }
+]
