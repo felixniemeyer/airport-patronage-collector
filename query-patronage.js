@@ -3,7 +3,7 @@ const qs = require('querystring')
 const fs = require('fs') 
 const rl = require('readline') 
 
-const choosePatronage = require('./icao_list.js') 
+const choosePatronage = require('./choose-patronages.js') 
 
 const BATCH_SIZE = 50
 const PARALLEL_QUERIES = 5
@@ -20,7 +20,7 @@ ws.write(['icao'].concat(YEARS).join(",") + '\n')
 
 let lastJobEnqueued = false
 rl.createInterface({
-  input: fs.createReadStream('./relevant-airports') 
+  input: fs.createReadStream('./icao_list') 
 })
   .on('line', line => { 
     batch.push(line) 
@@ -85,8 +85,6 @@ function query(icao_list) {
     }
   `
 
-  console.log(query) 
-
   let httpGetParams = qs.encode({ query })
 
   let requestOptions = {
@@ -103,7 +101,6 @@ function query(icao_list) {
 
   return rp(requestOptions)
     .then(res => {
-      console.log(res.results.bindings) 
       let results = choosePatronage(res.results.bindings)
       for(let icao in results) {
         let values = [icao].concat(YEARS.map(year => results[icao][year] || 'unavailable'))

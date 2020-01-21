@@ -47,6 +47,9 @@ rl.createInterface({ input: fs.createReadStream(source_file) })
           header = false
           return 
         }
+        if(row[0] == 'KFOE') {
+          console.log('nan for row', row)
+        }
         if(row[i_2014] === 'unavailable') {
           let other_years = 0
           let other_year_predictions = 0

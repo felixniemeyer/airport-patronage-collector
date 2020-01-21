@@ -76,10 +76,13 @@ module.exports = function choosePatronages(bindings) {
 
   let results = {}
   let setResult = (icao, year, patronage) => {
-    if(results[icao] === undefined) {
-      results[icao] = {}
+    patronage = parseInt(patronage) 
+    if(patronage > 0) {
+      if(results[icao] === undefined) {
+        results[icao] = {}
+      }
+      results[icao][year] = patronage
     }
-    results[icao][year] = parseInt(patronage)
   }
   for(icao in restructured) {
     for(year in restructured[icao]) {
