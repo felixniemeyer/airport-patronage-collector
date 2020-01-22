@@ -6,8 +6,8 @@ let column_names = []
 let patronage_sum = []
 let complete_row_count = 0
 
-const source_file = './patronages.csv'
-const out_file = './estimation_enriched_2014_patronage.csv'
+const source_file = './yearly-patronages.csv'
+const out_file = './estimated-2014-patronage.csv'
 
 rl.createInterface({ input: fs.createReadStream(source_file) })
   .on('line', line => {

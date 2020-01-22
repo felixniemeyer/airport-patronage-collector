@@ -1,59 +1,7 @@
 const splitSet = require('./split-set.js')
 
-function restructure(bindings) {
-  let restructured = {}
-  bindings.forEach(binding => {
-    let icao = parseIcao(binding.icao)
-    let patronage = parsePatronage(binding.patronage) 
-    let [year, month] = parsePointInTime(binding.point_in_time)
-    if( 
-        patronage === undefined || 
-        year === undefined ||
-        month === undefined ) {
-      console.error('failed to parse binding', binding)
-      return
-    }
-
-    if(restructured[icao] === undefined) {
-      restructured[icao] = {
-      }
-    }
-
-    if(restructured[icao][year] === undefined) {
-      restructured[icao][year] = {}
-    }
-
-    if(restructured[icao][year][month] === undefined) {
-      restructured[icao][year][month] = []
-    }
-
-    restructured[icao][year][month].push(patronage)
-  })
-  return restructured
-}
-
-function parseIcao(icao) {
-  return icao.value
-}
-
-function parsePatronage(patronage) {
-  if( 
-    patronage.datatype != 'http://www.w3.org/2001/XMLSchema#decimal' || 
-    patronage.type !== 'literal' ) {
-    console.error('unexpected patronage datatype')
-    return undefined
-  } else {
-    return parseInt(patronage.value)
-  }
-}
     
 function parsePointInTime(point_in_time) {
-  if (
-    point_in_time.datatype != 'http://www.w3.org/2001/XMLSchema#dateTime' ||
-    point_in_time.type !== 'literal' ) {
-    console.error('unexpected point_in_time datatype')
-    return undefined
-  } 
   let components = point_in_time.value.split('-')
   let year = components[0]
   let month = components[1]

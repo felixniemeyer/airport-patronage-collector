@@ -1,18 +1,18 @@
-##
+### get data from wikidata
+go to query.wikidata.org
+enter query ```sparql-queries/get-all-airports-with-patronage-values.sparql```
 
-### install 
+click download, choose csv, save as ```wikidata-patronages.csv```
 
-```npm install```
+### choose patronage
 
-### run
+put a file  ```custom_aiport_ids``` in the root directory containing rows in the format: ```"<custom_airport_id>|<iata>|<icao>"```
 
-put a file  ```icao_list``` in the root directory containing one icao code each line. 
+run ```node extract-yearly-patronage.js```
 
-run ```npm query-patronage.js```
+run ```node estimate-2014-patronage.js```
 
-run ```npm estimate_2014.js```
-
-output file is called ```estimation_enriched_2014_patronage.csv```
+output file is called ```estimated-2014-patronage.csv```
 
 
 
